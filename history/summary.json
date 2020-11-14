@@ -5,7 +5,7 @@
     "slug": "wanted-for-users",
     "status": "up",
     "uptime": "100.00",
-    "time": 1796
+    "time": 1785
   },
   {
     "name": "Wanted For Employers",
@@ -13,7 +13,7 @@
     "slug": "wanted-for-employers",
     "status": "up",
     "uptime": "100.00",
-    "time": 205
+    "time": 206
   },
   {
     "name": "Wanted Gigs",
@@ -21,7 +21,15 @@
     "slug": "wanted-gigs",
     "status": "up",
     "uptime": "100.00",
-    "time": 472
+    "time": 495
+  },
+  {
+    "name": "Kredit Job",
+    "url": "https://kreditjob.com/",
+    "slug": "kredit-job",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 782
   },
   {
     "name": "Secret Site",
@@ -29,6 +37,6 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "100.00",
-    "time": 75
+    "time": 105
   }
 ]
