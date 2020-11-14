@@ -1,10 +1,26 @@
 [
   {
-    "name": "Wanted Userweb",
+    "name": "Wanted For Users",
     "url": "https://www.wanted.co.kr",
-    "slug": "wanted-userweb",
+    "slug": "wanted-for-users",
     "status": "up",
     "uptime": "100.00",
-    "time": 1694
+    "time": 1731
+  },
+  {
+    "name": "Wanted For Employers",
+    "url": "https://www.wanted.co.kr/dashboard",
+    "slug": "wanted-for-employers",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 194
+  },
+  {
+    "name": "Wanted Gigs",
+    "url": "https://www.wanted.co.kr/gigs",
+    "slug": "wanted-gigs",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 438
   }
 ]
