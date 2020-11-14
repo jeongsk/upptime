@@ -5,7 +5,7 @@
     "slug": "wanted-for-users",
     "status": "up",
     "uptime": "100.00",
-    "time": 1731
+    "time": 1796
   },
   {
     "name": "Wanted For Employers",
@@ -13,7 +13,7 @@
     "slug": "wanted-for-employers",
     "status": "up",
     "uptime": "100.00",
-    "time": 194
+    "time": 205
   },
   {
     "name": "Wanted Gigs",
@@ -21,6 +21,14 @@
     "slug": "wanted-gigs",
     "status": "up",
     "uptime": "100.00",
-    "time": 438
+    "time": 472
+  },
+  {
+    "name": "Secret Site",
+    "url": "$SECRET_SITE",
+    "slug": "secret-site",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 75
   }
 ]
