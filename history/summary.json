@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Google",
+    "url": "https://www.google.com",
+    "slug": "google",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 87
+  },
+  {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org",
+    "slug": "wikipedia",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 150
+  },
+  {
+    "name": "IP address",
+    "url": "http://18.156.176.223:3000",
+    "slug": "ip-address",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 409
+  },
+  {
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com",
+    "slug": "hacker-news",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 336
+  },
+  {
+    "name": "Broken Site",
+    "url": "https://thissitedoesnotexist.com",
+    "slug": "broken-site",
+    "status": "down",
+    "uptime": "0.00",
+    "time": 0
+  },
+  {
+    "name": "Secret Site",
+    "url": "$SECRET_SITE",
+    "slug": "secret-site",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 51
+  }
+]
