@@ -4,8 +4,12 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Wanted Userweb
+  - name: Wanted For Users
     url: https://www.wanted.co.kr
+  - name: Wanted For Employers
+    url: https://www.wanted.co.kr/dashboard
+  - name: Wanted Gigs
+    url: https://www.wanted.co.kr/gigs
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
