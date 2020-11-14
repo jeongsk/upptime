@@ -10,6 +10,8 @@ sites:
     url: https://www.wanted.co.kr/dashboard
   - name: Wanted Gigs
     url: https://www.wanted.co.kr/gigs
+  - name: Kredit Job
+    url: https://kreditjob.com/
   - name: Secret Site
     url: $SECRET_SITE
 
