@@ -1,50 +1,10 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "down",
+    "name": "Wanted Userweb",
+    "url": "https://www.wanted.co.kr/",
+    "slug": "wanted-userweb",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "IP address",
-    "url": "http://18.156.176.223:3000",
-    "slug": "ip-address",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
+    "time": 1753
   }
 ]
