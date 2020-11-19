@@ -3,40 +3,40 @@
     "name": "Wanted For Users",
     "url": "https://www.wanted.co.kr",
     "slug": "wanted-for-users",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 1733
+    "time": 1739
   },
   {
     "name": "Wanted For Employers",
     "url": "https://www.wanted.co.kr/dashboard",
     "slug": "wanted-for-employers",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 198
+    "time": 197
   },
   {
     "name": "Wanted Gigs",
     "url": "https://www.wanted.co.kr/gigs",
     "slug": "wanted-gigs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 493
+    "time": 513
   },
   {
     "name": "Kredit Job",
     "url": "https://kreditjob.com/",
     "slug": "kredit-job",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 777
+    "time": 780
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 163
+    "time": 166
   }
 ]
