@@ -5,7 +5,7 @@
     "slug": "wanted-for-users",
     "status": "up",
     "uptime": "100.00",
-    "time": 1758
+    "time": 1763
   },
   {
     "name": "Wanted For Employers",
@@ -21,7 +21,7 @@
     "slug": "wanted-gigs",
     "status": "up",
     "uptime": "100.00",
-    "time": 527
+    "time": 530
   },
   {
     "name": "Kredit Job",
@@ -29,7 +29,7 @@
     "slug": "kredit-job",
     "status": "up",
     "uptime": "100.00",
-    "time": 793
+    "time": 794
   },
   {
     "name": "Secret Site",
@@ -37,6 +37,6 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "100.00",
-    "time": 175
+    "time": 177
   }
 ]
