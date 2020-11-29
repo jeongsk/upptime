@@ -21,7 +21,7 @@
     "slug": "wanted-gigs",
     "status": "up",
     "uptime": "100.00%",
-    "time": 539
+    "time": 536
   },
   {
     "name": "Kredit Job",
@@ -29,7 +29,7 @@
     "slug": "kredit-job",
     "status": "up",
     "uptime": "100.00%",
-    "time": 801
+    "time": 800
   },
   {
     "name": "Secret Site",
@@ -37,6 +37,6 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 189
+    "time": 191
   }
 ]
