@@ -5,7 +5,15 @@
     "slug": "wanted-for-users",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1789
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1795,
+    "timeDay": 1907,
+    "timeWeek": 1828,
+    "timeMonth": 1795,
+    "timeYear": 1795
   },
   {
     "name": "Wanted For Employers",
@@ -13,7 +21,15 @@
     "slug": "wanted-for-employers",
     "status": "up",
     "uptime": "100.00%",
-    "time": 204
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 204,
+    "timeDay": 195,
+    "timeWeek": 202,
+    "timeMonth": 204,
+    "timeYear": 204
   },
   {
     "name": "Wanted Gigs",
@@ -21,7 +37,15 @@
     "slug": "wanted-gigs",
     "status": "up",
     "uptime": "100.00%",
-    "time": 524
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 522,
+    "timeDay": 448,
+    "timeWeek": 477,
+    "timeMonth": 522,
+    "timeYear": 522
   },
   {
     "name": "Kredit Job",
@@ -29,7 +53,15 @@
     "slug": "kredit-job",
     "status": "up",
     "uptime": "100.00%",
-    "time": 806
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 806,
+    "timeDay": 793,
+    "timeWeek": 813,
+    "timeMonth": 806,
+    "timeYear": 806
   },
   {
     "name": "Secret Site",
@@ -37,6 +69,14 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 193
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 220,
+    "timeDay": 239,
+    "timeWeek": 216,
+    "timeMonth": 220,
+    "timeYear": 220
   }
 ]
