@@ -1,7 +1,7 @@
 url: https://www.wanted.co.kr
-status: up
-code: 200
-responseTime: 1959
-lastUpdated: 2021-01-07T23:37:51.591Z
+status: down
+code: 502
+responseTime: 1544
+lastUpdated: 2021-01-08T01:46:12.291Z
 startTime: Tue Jan 05 2021 18:18:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
