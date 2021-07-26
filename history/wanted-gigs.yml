@@ -1,7 +1,7 @@
 url: https://www.wanted.co.kr/gigs
-status: up
-code: 200
-responseTime: 1846
-lastUpdated: 2021-07-26T05:11:45.213Z
+status: down
+code: 500
+responseTime: 7095
+lastUpdated: 2021-07-26T05:25:17.924Z
 startTime: Tue Jan 05 2021 18:18:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
